@@ -25,6 +25,10 @@ body {
     height: 150px;
 }
 button {
-    padding: 2px;
-    background-color: ;
+    padding: 5px;
+    margin-top: 5px;
+    color: white;
+    background-color: #6c4994;
+    border: none;
+    border-radius: 3px;
 }
