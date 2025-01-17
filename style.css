@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ececec;
+}
+
+.welcome {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.welcome-text {
+    padding: 20px;
+}
+.welcome-text p {
+    color: #858585;
+}
+.welcome-p {
+    margin-top: 20px;
+}
+.welcome img {
+    height: 150px;
+}
