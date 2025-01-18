@@ -32,3 +32,7 @@ button {
     border: none;
     border-radius: 3px;
 }
+p a button {
+    font-size: large;
+    background-color: #ff6600;
+}
